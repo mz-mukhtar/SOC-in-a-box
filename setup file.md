@@ -160,10 +160,11 @@ ping 8.8.8.8
 
 Go back to **Kali Main (Gateway)**.
 
-**Step 1: Install Suricata**
+**Step 1: Install Suricata and Open ET rule set**
 ```bash
 sudo apt update
 sudo apt install suricata -y
+sudo suricata-update
 ```
 
 **Step 2: Configure the Network Variables**
