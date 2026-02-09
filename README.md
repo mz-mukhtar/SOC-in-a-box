@@ -126,16 +126,6 @@ sudo evebox server --input /var/log/suricata/eve.json --no-auth
 
 ---
 
-## 🧠 What I Learned
-
-Building this lab reinforced several core engineering concepts:
-1.  **OSI Model Layer 3:** How routing tables and gateways actually function beyond "plug and play."
-2.  **Network Security Monitoring (NSM):** The importance of placing sensors at the correct network chokepoints.
-3.  **Log Analysis:** How to parse structured JSON logs to reconstruct an attack timeline.
-4.  **Linux Administration:** Managing persistent network interfaces using `nmcli` and `sysctl`.
-
----
-
 ## 🤝 Connect
 
 If you found this project interesting or have questions about setting up your own lab, feel free to reach out!
