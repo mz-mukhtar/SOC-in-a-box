@@ -114,10 +114,15 @@ sudo evebox server --input /var/log/suricata/eve.json --no-auth
 ## 📸 Screenshots
 
 ### 1. The EveBox Dashboard
-*(Place a screenshot here of the EveBox "Alerts" tab showing an Nmap scan)*
+<img width="1280" height="654" alt="image" src="https://github.com/user-attachments/assets/f21a0dd4-d40d-4449-b9c0-1c6f8533d7e1" />
+
 
 ### 2. Network Traffic Analysis
-*(Place a screenshot here of the "Flow" tab showing traffic between .20 and .10)*
+<img width="1920" height="982" alt="Screenshot_2026-02-09_07_03_37" src="https://github.com/user-attachments/assets/65520000-7bfa-4354-9f08-8ad418dde8bb" />
+<img width="1920" height="982" alt="Screenshot_2026-02-09_07_03_45" src="https://github.com/user-attachments/assets/6ef31fea-7309-43c7-9bea-937a7a3e483a" />
+<img width="1920" height="982" alt="Screenshot_2026-02-09_07_03_56" src="https://github.com/user-attachments/assets/c832109d-396d-459a-8aff-10402a2c04c2" />
+
+
 
 ---
 
