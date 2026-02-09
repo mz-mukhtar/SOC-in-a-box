@@ -82,7 +82,7 @@ graph TD
 
 ## 🚀 Getting Started (Quick Summary)
 
-*For the full step-by-step implementation guide, please refer to the [Detailed Documentation](file.md) in this repository.*
+*For the full step-by-step implementation guide, please refer to the [Detailed Documentation](https://github.com/mz-mukhtar/SOC-in-a-box/blob/main/setup%20file.md) in this repository.*
 
 ### 1. The Gateway Setup
 The Gateway is the brain of the operation. It must route traffic between the isolated LAN and the Internet.
