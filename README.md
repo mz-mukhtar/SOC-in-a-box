@@ -137,8 +137,8 @@ If you found this project interesting or have questions about setting up your ow
 
 *   **Mahi Zeki**
 *   *Addis Ababa University (AAU)*
-*   [LinkedIn Profile](#) *(Add your link)*
-*   [GitHub Profile](#) *(Add your link)*
+*   [LinkedIn Profile](https://linkedin.com/in/mahi-mukhtar-a93b312b7)
+*   [Telegram Profile](https://t.me/mahi_zeki)
 
 ---
 
